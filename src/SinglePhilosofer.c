@@ -1,7 +1,7 @@
 #include "pch.h"
 #include <stdio.h>
 #define TIMESTOEAT 3
-int main_19(int argc, char* argv[])
+int main(int argc, char* argv[])
 {
 	INT size = sizeof(INT);
 	PCHAR snum1 = (PCHAR)malloc(size);
